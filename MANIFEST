@@ -1,0 +1,11 @@
+Build.PL
+lib/Class/ByOS.pm
+MANIFEST			This list of files
+t/00use.t
+t/01stupid.t
+t/02fancy.t
+t/03required.t
+t/CrazyClass.pm
+t/CrazyClass/WeirdIX.pm
+Makefile.PL
+META.yml
