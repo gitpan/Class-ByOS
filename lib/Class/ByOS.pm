@@ -6,9 +6,10 @@
 package Class::ByOS;
 
 use strict;
+use warnings;
 use base qw( Exporter );
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 our @EXPORT = qw( new );
 
@@ -166,4 +167,4 @@ distinguish OS names from families, nor can it provide taxonomy ordering.
 
 =head1 AUTHOR
 
-Paul Evans E<lt>leonerd@leonerd.org.ukE<gt>
+Paul Evans <leonerd@leonerd.org.uk>
